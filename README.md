@@ -6,4 +6,7 @@
 
 Check my CUDA PCISPH project that I developed in Poland!
 
-Get in touch! Lets talk!
+I am an experienced self learner and everything I have ever coded I did it myself!
+
+Coding and software are my passion! :blue_heart: :computer:
+
